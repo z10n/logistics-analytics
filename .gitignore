@@ -1,0 +1,20 @@
+# Данные 
+data/*.csv
+data/*.db
+data/*.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
